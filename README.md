@@ -19,8 +19,8 @@
 **许可证：** CC BY-NC-SA 4.0
 
 **文件：**
-- `paper-01-VC-LLM/original.pdf` — 英文原文
-- `paper-01-VC-LLM/translation.docx` — 中文译文
+- `paper-01-Automating Venture Capital Founder assessment using LLM-powered segmentation, feature engineering and automated labeling techniques/original.pdf` — 英文原文
+- `paper-01-Automating Venture Capital Founder assessment using LLM-powered segmentation, feature engineering and automated labeling techniques/paper-01-translation.pdf` — 中文译文
 
 ---
 
@@ -33,8 +33,8 @@
 **原文链接：** https://arxiv.org/abs/2601.00810
 
 **文件：**
-- `paper-02-VC-Exit/original.pdf` — 英文原文
-- `paper-02-VC-Exit/translation.pdf` — 中文译文
+- `paper-02-Can Large Language Models Improve Venture Capital Exit Timing After IPO/original.pdf` — 英文原文
+- `paper-02-Can Large Language Models Improve Venture Capital Exit Timing After IPO/paper-02-translation.pdf` — 中文译文
 
 ---
 
