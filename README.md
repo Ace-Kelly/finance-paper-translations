@@ -34,7 +34,7 @@
 
 **文件：**
 - `paper-02-VC-Exit/original.pdf` — 英文原文
-- `paper-02-VC-Exit/translation.docx` — 中文译文
+- `paper-02-VC-Exit/translation.pdf` — 中文译文
 
 ---
 
